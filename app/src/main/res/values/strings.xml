@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Konwerter Temperatur</string>
+    <string name="temperatura_txt">Podaj temperaturę i wybierz jednostki:</string>
+    <string name="przycisk">Oblicz</string>
+    <string name="blad">"Nie znaleziono liczby"</string>
+    <string name="sprawdzanie">"Wprowadzona jednostka nie zgadza się z wybraną z menu. Sprawdź poprawność wybranej jednostki"</string>
+    <string-array name="konwersje">
+    <item>°C -> °F</item>
+    <item>°F -> °C</item>
+    <item>°F -> K</item>
+    <item>K -> °F</item>
+    <item>K -> °C</item>
+    <item>°C -> K</item>
+    </string-array>
+</resources>
